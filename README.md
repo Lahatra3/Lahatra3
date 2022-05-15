@@ -5,8 +5,8 @@
   
   I'm a passionate I.T developer ...!
   <p align="center">
-    <a href="http://angular.io/" target="blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="320" alt="Angular Logo" /></a>
-    <a href="http://nestjs.com/" target="blank"><img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="320" alt="Nest Logo" /></a>
+    <a href="http://angular.io/" target="blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="150" alt="Angular Logo" /></a>
+    <a href="http://nestjs.com/" target="blank"><img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="150" alt="Nest Logo" /></a>
   </p>
 <!--
 **lahatra3/lahatra3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
